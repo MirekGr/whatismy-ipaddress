@@ -1,4 +1,4 @@
-# WhatIsMyIPAddress.com
+# WhatIsMy-IPAddress.com
 
 Free online privacy and network diagnostic toolkit.
 
